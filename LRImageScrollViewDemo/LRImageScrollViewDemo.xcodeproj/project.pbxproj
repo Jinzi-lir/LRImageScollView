@@ -519,6 +519,7 @@
 				952CA1031D2F404200275DEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		952CA1041D2F404200275DEC /* Build configuration list for PBXNativeTarget "LRImageScrollViewDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +528,7 @@
 				952CA1061D2F404200275DEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		952CA1071D2F404200275DEC /* Build configuration list for PBXNativeTarget "LRImageScrollViewDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -535,6 +537,7 @@
 				952CA1091D2F404200275DEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
